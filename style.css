@@ -1,0 +1,49 @@
+.nav{
+
+    background-color: blueviolet;
+    
+}
+.navbar-brand-1{
+    padding-top: 1%;
+    padding-left: 16%;
+    color: yellow;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#navbarNavAltMarkup{
+    margin-right: 13%;
+    padding: 1% 1.1%;
+}
+.card-body{
+    background-color:#2BE293 ;
+    color: white;
+}
+#card{
+    padding-left: 8%;
+    padding-right:8%;
+    margin-bottom: 10%;   
+
+}
+/* .card2{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.card1{
+    margin-right: 8%;
+}
+.card3{
+    margin-left: 8%;
+} */
+.card{
+    margin-left: 11%;
+    border-radius:0rem;
+}
+.bg{
+    background-color: black;
+}
+
+.btn {
+    width: 7rem;
+}
